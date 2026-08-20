@@ -7,7 +7,7 @@ from aiogram.utils.keyboard import InlineKeyboardBuilder
 logging.basicConfig(level=logging.INFO)
 
 # O'z API Tokeningizni kiriting
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = "8916790366:AAErADCcTeCSXydXrAt5VSIH99k_yXJecm8"
 
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
